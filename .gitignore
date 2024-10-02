@@ -1,0 +1,15 @@
+.python-version
+/.idea/
+.idea
+/postgres_data/
+.idea/
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv
+dev
+logs
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
